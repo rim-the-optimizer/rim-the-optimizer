@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rim-the-optimizer
-- 👀 I’m interested in Operations Research, mathematical modeling, Data Science and Machine Learning.
+- 👀 I’m interested in Operations Research, Mathematical Modeling, Data Science, Algorithms and Machine Learning.
 - 🌱 I’m currently learning about pricing models.
 - 💞️ I’m looking to collaborate on logistical and mathematical issues.
 - ⚡ Fun fact: I speak Chinese, Arabic and German.
